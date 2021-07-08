@@ -1,0 +1,21 @@
+.error {
+  color: red;
+  font-style: italic;
+}
+.container {
+  padding: auto;
+  padding-top: 150px;
+}
+
+.panel-heading {
+  text-align: center;
+}
+
+body {
+  background: linear-gradient(
+    to right,
+    rgba(140, 186, 238, 0.932),
+    rgba(140, 186, 238, 0.932),
+    rgba(140, 186, 238, 0.932)
+  );
+}
